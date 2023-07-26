@@ -43,6 +43,7 @@
 
 ## 🛠️ 사용 기술 및 라이브러리
 - Selenium
+- Tensorflow
 - Numpy, Pandas, Scikit-learn
 - KoNLPy
 - LightGBM, XGBoost
